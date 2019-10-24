@@ -1,0 +1,23 @@
+<style lang="less" type="text/less" scoped>
+
+</style>
+
+<template>
+
+</template>
+
+<script>
+    import wepy from 'wepy';
+
+    export default class Test extends wepy.page({
+        config: {},
+        components: {},
+        props: {},
+        data: {},
+        methods: {},
+        events: {},
+        onLoad() {
+
+        }
+    })
+</script>
